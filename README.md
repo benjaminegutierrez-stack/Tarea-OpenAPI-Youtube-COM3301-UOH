@@ -7,7 +7,7 @@ aplicando **Domain-Driven Design (DDD)** y especificaciones **OpenAPI 3.0**.
 
 ## Integrantes
 
-- Vicente Sánchez
+- Vicente [Apellido]
 - Benjamin Gutierrez
 
 **Curso:** Análisis y Diseño de Software — COM3301  
